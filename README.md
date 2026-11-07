@@ -1,7 +1,7 @@
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
-    <img src="assets/banner-light.svg" width="100%" alt="Heiner Rincón. Systems Engineering, Universidad Icesi, Cali, Colombia. Full stack, AI/ML detection models, defensive security and AI. Seeking a defensive security and AI internship for 2027-2.">
+    <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg?v=2">
+    <img src="assets/banner-light.svg?v=2" width="100%" alt="Heiner Rincón. Systems Engineering, Universidad Icesi, Cali, Colombia. Full stack, AI/ML detection models, defensive security and AI. Seeking a defensive security and AI internship for 2027-2.">
   </picture>
 </p>
 
