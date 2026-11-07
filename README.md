@@ -8,7 +8,6 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/heiner-rincon-sw-engineering"><img src="https://img.shields.io/badge/LinkedIn-heiner--rincon-B3243D?style=for-the-badge" alt="LinkedIn: heiner-rincon"></a>
   <a href="mailto:heinerdanitrincon@gmail.com"><img src="https://img.shields.io/badge/Email-heinerdanitrincon%40gmail.com-121821?style=for-the-badge" alt="Email: heinerdanitrincon@gmail.com"></a>
-  <a href="https://bitacora-pdp.heinerdanitrincon.workers.dev/"><img src="https://img.shields.io/badge/Development%20log-Bit%C3%A1cora-46505D?style=for-the-badge" alt="Personal development log (Bitácora)"></a>
 </p>
 
 I'm a Systems Engineering undergraduate at Universidad Icesi (Cali, Colombia, graduating December 2027). I build full-stack apps and object-detection models, and I'm looking for a cybersecurity internship in defensive security and AI for the second half of 2027.
