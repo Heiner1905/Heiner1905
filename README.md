@@ -19,6 +19,17 @@ I'm a Systems Engineering undergraduate at Universidad Icesi (Cali, Colombia, gr
 
 ## Tools I've used in real projects
 
+**Security**
+
+<p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/security-dark.svg?v=1">
+  <img src="assets/security-light.svg?v=1" alt="SonarQube, Trivy, Wireshark, Nmap">
+</picture>
+</p>
+
+SonarQube and Trivy as quality and vulnerability gates in my CI/CD pipelines; Wireshark and Nmap for network analysis in coursework.
+
 **Backend and apps**
 
 <p>
@@ -46,7 +57,6 @@ I'm a Systems Engineering undergraduate at Universidad Icesi (Cali, Colombia, gr
 </picture>
 </p>
 
-Security gates in my pipelines: **SonarQube** and **Trivy**.
 
 ## Public work worth opening
 
