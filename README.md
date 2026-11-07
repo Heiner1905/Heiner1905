@@ -28,7 +28,6 @@ I'm a Systems Engineering undergraduate at Universidad Icesi (Cali, Colombia, gr
 </picture>
 </p>
 
-SonarQube and Trivy as quality and vulnerability gates in my CI/CD pipelines; Wireshark and Nmap for network analysis in coursework.
 
 **Backend and apps**
 
