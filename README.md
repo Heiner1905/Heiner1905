@@ -69,8 +69,5 @@ I'm a Systems Engineering undergraduate at Universidad Icesi (Cali, Colombia, gr
 
 I want to apply what I know about software and machine learning to defensive security: monitoring, detection and automating analysis. I don't have professional security experience yet; the security work you'll find here comes from coursework and my own labs.
 
----
-
-**Resumen en español:** Estudio Ingeniería de Sistemas en la Universidad Icesi (grado en diciembre de 2027). Construyo aplicaciones full stack y modelos de detección de objetos, y busco una práctica en ciberseguridad defensiva con IA para 2027-2. Aquí están mis proyectos públicos de infraestructura, CI/CD con controles de seguridad, visión por computador y sistemas distribuidos; el código de Vamo y el del cliente confidencial no es público.
 
 <!-- Última revisión: 2026-11-06. Banner: assets/banner-light.svg y assets/banner-dark.svg (se regeneran con generar-banner.py). Revisar cuando: cambie un cargo, haya un repo nuevo para fijar, empiece la búsqueda de práctica (mar–may 2027) o cambie la HV. -->
